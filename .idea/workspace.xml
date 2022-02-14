@@ -42,10 +42,33 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../assignment-1---your-first-django-apps-Sujatha-Renga" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Django Server.Assignment1_first-django-apps">
+    <configuration name="Assignment1_first-django-apps" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Assignment1_first-django-apps" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="locallibrary" type="Python.DjangoServer" factoryName="Django server">
       <module name="locallibrary" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,6 +104,8 @@
       <updated>1631450727230</updated>
       <workItem from="1631450734643" duration="2792000" />
       <workItem from="1631460929041" duration="44926000" />
+      <workItem from="1644446059820" duration="6456000" />
+      <workItem from="1644841217793" duration="1078000" />
     </task>
     <task id="LOCAL-00001" summary="Vitual env created">
       <created>1631462871675</created>
